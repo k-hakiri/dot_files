@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Backup files
+*.bak
+*~
+*.swp
+
+# History files (should be linked but maybe not committed if they contain sensitive data or are too large)
+# For now, let's keep it simple.
